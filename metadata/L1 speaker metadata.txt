@@ -1,0 +1,24 @@
+Metadata categories of L1 speakers in the spoken L1 corpus listed sequentially are speaker ID, gender, age, and region.
+
+N01 female, age c.28, northern China
+N02 female, age c.28, southern China
+N03 male, age c.28, northern China
+N04 male, age c.28, northern China
+N05 female, age c.32, northern China
+N06 female, age c.36, northern China
+N07 female, age c.35, northern China
+N08 female, age c.36, northern China
+N09 female, age c.28, northern China
+N10 female, age c.31, northern China
+N11 female, age c.25, northern China
+N12 female, age c.25, northern China
+N13 male, age c.27, northern China
+N14 female, age c.28, northern China
+N15 male, age c.35, northern China
+N16 female, age c.28, southern China
+N17 male, age c.27, northern China
+N18 female, age c.27, southern China
+N19 male, age c.35, southern China
+N20 male, age c.27, northern China
+N21 male, age c.35, northern China
+N22 female, age c.24, southern China

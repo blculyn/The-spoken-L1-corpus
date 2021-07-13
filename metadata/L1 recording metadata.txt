@@ -1,0 +1,49 @@
+Metadata categories of L1 recordings listed in turn are recording ID, date, method, location (participant-researcher), and length.
+
+N01-C01 (02/04/2018) WeChat audio, home-home, 1:05:02
+N01-C02 (09/04/2018) WeChat audio, home-home, 31:07
+
+N02-C01 (02/04/2018) WeChat audio, home-home, 37:39
+N02-C02 (09/04/2018) face-to-face, campus, 27:54
+N02-C03 (09/04/2018) face-to-face, office, 34:20
+
+N03-C01 (05/04/2018) WeChat audio, home-office, 21:17
+
+N04-C01 (19/04/2018) WeChat audio, home-office, 42:33
+N04-C02 (07/05/2018) WeChat audio, home-office, 44:33
+
+N05-C01 (24/04/2018) WeChat audio, home-office, 20:48
+
+N06-C01 (29/04/2018) face-to-face, library, 25:34
+
+N07-C01 (03/05/2018) face-to-face, library, 36:28
+
+N08-C01 (01/07/2018) WeChat audio, home-office, 30:53
+
+N09-C01 (08/07/2018) WeChat audio, home-office, 29:48
+
+N10-C01 (08/07/2018) WeChat audio, home-office, 36:44
+
+N11-C01 (09/07/2018) WeChat audio, home-office, 32:57
+
+N12-C01 (09/07/2018) WeChat audio, home-office, 34:04
+
+N13-C01 (09/07/2018) WeChat audio, home-home, 37:13
+
+N14-C01 (13/07/2018) WeChat audio, home-office, 37:17
+
+N15-C01 (14/07/2018) WeChat audio, home-home, 39:18
+
+N16-C01 (14/07/2018) WeChat audio, office-home, 28:17
+
+N17-C01 (15/07/2018) WeChat audio, home-office, 41:28
+
+N18-C01 (15/07/2018) WeChat audio, home-home, 32:09
+
+N19-C01 (20/07/2018) WeChat audio, office-home, 35:51
+
+N20-C01 (21/07/2018) WeChat audio, office-home, 30:05
+
+N21-C01 (21/07/2018) WeChat audio, home-home, 49:18
+
+N22-C01 (21/07/2018) WeChat audio, home-home, 27:52
