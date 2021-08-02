@@ -1,4 +1,5 @@
 # The-spoken-L1-corpus
+The spoken L1 corpus represents present-day spoken Chinese (Putonghua) used in mainland China, which is designed as a comparable corpus to the spoken L2 corpus. It comprises L1-L1 conversational interactions between L1 speakers of Chinese and a native Chinese speaker (the corpus builder) in informal settings. This corpus contains 228,306  words of transcribed interaction gathered in 2018, featuring 22 L1 speakers of Chinese in 26 audio recordings.
 
 How to acknowledge the use of the corpus?
 -----------------------------------------
